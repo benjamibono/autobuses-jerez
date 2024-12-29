@@ -1,0 +1,11 @@
+{
+  "id": 468,
+  "nombre": "Correos P.Empresarial hacia Centro",
+  "horarios": {
+    "laborables": [
+      "07:57, 08:46, 09:35, 10:25, 11:15, 12:05, 12:55, 13:46, 14:40, 16:38, 17:56, 18:43, 19:30, 20:17, 21:05,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

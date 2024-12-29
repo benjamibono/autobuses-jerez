@@ -1,0 +1,11 @@
+{
+  "id": 142,
+  "nombre": "Doctor Marañón Hacia Alvaro Domcq",
+  "horarios": {
+    "laborables": [
+      "07:50, 08:39, 09:28, 10:18, 11:08, 11:58, 12:48, 13:39, 14:33, 16:32, 17:50, 18:37, 19:24, 20:11, 20:59,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

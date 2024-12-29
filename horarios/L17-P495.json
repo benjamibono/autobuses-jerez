@@ -1,0 +1,11 @@
+{
+  "id": 495,
+  "nombre": "Colegio Montealto Hacia Centro",
+  "horarios": {
+    "laborables": [
+      "07:52, 08:41, 09:30, 10:20, 11:10, 12:00, 12:50, 13:41, 14:35, 16:34, 17:52, 18:39, 19:26, 20:13, 21:01,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

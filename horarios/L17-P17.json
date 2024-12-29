@@ -1,0 +1,11 @@
+{
+  "id": 17,
+  "nombre": "Álvaro Domecq Sentido Centro",
+  "horarios": {
+    "laborables": [
+      "08:05, 08:54, 09:43, 10:33, 11:23, 12:13, 13:03, 13:55, 14:49, 16:46, 18:04, 18:51, 19:38, 20:25, 21:13,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

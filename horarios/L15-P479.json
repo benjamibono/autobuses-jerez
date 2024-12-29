@@ -1,0 +1,11 @@
+{
+  "id": 479,
+  "nombre": "PCTA Hacia Angustias-El Portal",
+  "horarios": {
+    "laborables": [
+      "12:17, 13:12, 15:52,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

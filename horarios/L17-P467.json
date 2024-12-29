@@ -1,0 +1,11 @@
+{
+  "id": 467,
+  "nombre": "Correos P.Empresarial hacia Montealto",
+  "horarios": {
+    "laborables": [
+      "07:42, 08:31, 09:20, 10:10, 11:00, 11:50, 12:40, 13:30, 14:22, 16:24, 17:10, 18:28, 19:15, 20:02, 20:50, 21:38,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

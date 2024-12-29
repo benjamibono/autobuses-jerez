@@ -1,0 +1,11 @@
+{
+  "id": 491,
+  "nombre": "Juan Sebastián Elcano Hacia Centro",
+  "horarios": {
+    "laborables": [
+      "07:54, 08:43, 09:32, 10:22, 11:12, 12:02, 12:52, 13:43, 14:37, 16:36, 17:54, 18:41, 19:28, 20:15, 21:03,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

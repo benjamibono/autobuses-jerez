@@ -1,0 +1,11 @@
+{
+  "id": 414,
+  "nombre": "Sevilla De Alameda Cristina a Paul",
+  "horarios": {
+    "laborables": [
+      "07:29, 08:18, 09:07, 09:57, 10:47, 11:37, 12:27, 13:17, 14:09, 16:12, 16:58, 18:16, 19:03, 19:50, 20:37, 21:25,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

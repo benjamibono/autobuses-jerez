@@ -1,0 +1,11 @@
+{
+  "id": 222,
+  "nombre": "Inst. Coloma Sentido Centro",
+  "horarios": {
+    "laborables": [
+      "08:04, 08:53, 09:42, 10:32, 11:22, 12:12, 13:02, 13:54, 14:48, 16:45, 18:03, 18:50, 19:37, 20:24, 21:12,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

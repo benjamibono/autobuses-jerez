@@ -1,0 +1,15 @@
+{
+  "id": 190,
+  "nombre": "Glorieta de Guadabajaque Hacia Media Markt",
+  "horarios": {
+    "laborables": [
+      "07:42, 08:40, 11:41, 13:29, 14:30, 16:18, 19:18, 21:04,"
+    ],
+    "sabado": [
+      "08:41, 11:25, 13:43, 17:24, 19:38,"
+    ],
+    "domingo_festivo": [
+      "09:25, 12:06, 17:16, 19:26,"
+    ]
+  }
+}

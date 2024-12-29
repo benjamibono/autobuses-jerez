@@ -1,0 +1,11 @@
+{
+  "id": 301,
+  "nombre": "Montealto Bajando León de Carranza frente Qualytel",
+  "horarios": {
+    "laborables": [
+      "07:49, 08:38, 09:27, 10:17, 11:07, 11:57, 12:47, 13:38, 14:32, 16:31, 17:49, 18:36, 19:23, 20:10, 20:58,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

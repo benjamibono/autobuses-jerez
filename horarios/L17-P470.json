@@ -1,0 +1,11 @@
+{
+  "id": 470,
+  "nombre": "Leroy Merlin Hacia Montealto",
+  "horarios": {
+    "laborables": [
+      "07:43, 08:32, 09:21, 10:11, 11:01, 11:51, 12:41, 13:31, 14:24, 16:25, 17:11, 18:29, 19:16, 20:03, 20:51, 21:39,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

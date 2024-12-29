@@ -1,0 +1,11 @@
+{
+  "id": 50,
+  "nombre": "Avd. Caballo Dirección centro",
+  "horarios": {
+    "laborables": [
+      "08:03, 08:52, 09:41, 10:31, 11:21, 12:11, 13:01, 13:53, 14:47, 16:44, 18:02, 18:49, 19:36, 20:23, 21:11,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

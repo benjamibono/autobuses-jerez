@@ -1,0 +1,11 @@
+{
+  "id": 80,
+  "nombre": "Buenos Aires Hacia San Joaquín",
+  "horarios": {
+    "laborables": [
+      "07:59, 08:48, 09:37, 10:27, 11:17, 12:07, 12:57, 13:48, 14:42, 16:40, 17:58, 18:45, 19:32, 20:19, 21:07,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

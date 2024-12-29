@@ -1,0 +1,11 @@
+{
+  "id": 471,
+  "nombre": "Leroy Merlin Hacia Centro",
+  "horarios": {
+    "laborables": [
+      "07:56, 08:45, 09:34, 10:24, 11:14, 12:04, 12:54, 13:45, 14:39, 16:37, 17:55, 18:42, 19:29, 20:16, 21:04,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

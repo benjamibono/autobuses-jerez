@@ -1,0 +1,11 @@
+{
+  "id": 476,
+  "nombre": "Ciudad del Transporte Hacia PCTA-Nv.Jarilla",
+  "horarios": {
+    "laborables": [
+      "12:15, 13:10, 15:50, 07:58, 10:30, 15:06,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}

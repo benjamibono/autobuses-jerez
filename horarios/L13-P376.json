@@ -1,0 +1,15 @@
+{
+  "id": 376,
+  "nombre": "Rodrigo de Jerez Hacia Carrefour Sur",
+  "horarios": {
+    "laborables": [
+      "07:45, 08:43, 11:44, 13:32, 14:33, 16:21, 19:21, 21:07,"
+    ],
+    "sabado": [
+      "08:44, 11:28, 13:46, 17:27, 19:41,"
+    ],
+    "domingo_festivo": [
+      "09:28, 12:09, 17:19, 19:29,"
+    ]
+  }
+}

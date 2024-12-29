@@ -1,0 +1,11 @@
+{
+  "id": 478,
+  "nombre": "PCTA Hacia PCTA-Nva. Jarilla",
+  "horarios": {
+    "laborables": [
+      "07:59, 10:32, 15:08,"
+    ],
+    "sabado": [],
+    "domingo_festivo": []
+  }
+}
