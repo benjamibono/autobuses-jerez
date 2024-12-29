@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#155ab9</color>
-    <color name="colorPrimaryDark">#103E7E</color>
-    <color name="colorAccent">@color/orange_logo</color>
-
-    <color name="orange_logo">#fea000</color>
-
-</resources>

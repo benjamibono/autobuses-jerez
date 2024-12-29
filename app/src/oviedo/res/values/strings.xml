@@ -1,8 +1,0 @@
-<resources>
-
-    <string name="app_name">Autobuses Oviedo</string>
-    <string name="app_name_description">Autobuses de Oviedo</string>
-    <string name="app_info_text">Esta aplicación surge por iniciativa propia del desarrollador con la intención de gestionar más fácilmente y de manera interactiva la información de la red de autobuses de Oviedo y sus horarios.\n\nEs independiente de TUA o cualquier otro organismo municipal.\n\nToda la información se ha obtenido de fuentes oficiales (página web, teléfono de información, Twitter, etc) por lo que no puedo hacerme responsable si hay algún error en dicha información.\n\nSi al usar la app, se detecta algún error, ya sea algún fallo técnico o relacionado con los datos de líneas de autobuses y horarios, se agradece la colaboración enviando un correo a través del botón inferior \"Contactar\".\nTambién se puede escribir para mandar sugerencias de mejora. ¡Muchas gracias por tu colaboración!\n\n¡Que disfrutes de esta aplicación!</string>
-
-
-</resources>

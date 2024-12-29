@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="padding_map">50dp</dimen>
-    <dimen name="width_polyline">3dp</dimen>
-    <dimen name="padding_contact_dialog">15dp</dimen>
-</resources>
